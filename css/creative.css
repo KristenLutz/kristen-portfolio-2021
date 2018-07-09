@@ -223,11 +223,13 @@ header.masthead {
   padding: 1rem 2rem; }
 
 .btn-primary {
-  background-color: #DBC5BE;
-  border-color: #DBC5BE; }
+  background-color: white;
+  border-color: white; 
+  color:#396983;
+}
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-    color: #fff;
-    background-color: #DBC5BE !important; }
+    color: #eee;
+    background-color: white !important; }
   .btn-primary:active, .btn-primary:focus {
     box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important; }
 
